@@ -2,6 +2,8 @@
 @import url(../vendor/fonts.css);
 
 @import url(../blocks/page/page.css);
+@import url(../blocks/pagecolor/pagecolor.css);
+
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
