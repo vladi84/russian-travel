@@ -1,0 +1,16 @@
+.lead__box {
+    margin: 0;
+    padding: 0;
+}
+
+@media screen and (max-width: 1279px) {
+    .lead__cover {
+      margin-top: 56px;
+    }
+  }
+  
+  @media screen and (max-width: 767px) {
+    .lead__cover {
+      margin-top: 40px;
+    }
+  }
