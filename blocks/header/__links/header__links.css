@@ -2,8 +2,13 @@
     display: flex;
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding-top: 18px;
     align-items: center;
 }
 
 
+@media screen and (max-width: 767px) {
+    .header__links {
+        padding-top: 10px;
+    }
+}
